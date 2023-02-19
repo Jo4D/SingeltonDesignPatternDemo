@@ -1,0 +1,15 @@
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\bin\Debug\net6.0\SingeltonDesignPatternDemo.exe
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\bin\Debug\net6.0\SingeltonDesignPatternDemo.deps.json
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\bin\Debug\net6.0\SingeltonDesignPatternDemo.runtimeconfig.json
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\bin\Debug\net6.0\SingeltonDesignPatternDemo.dll
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\bin\Debug\net6.0\SingeltonDesignPatternDemo.pdb
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.csproj.AssemblyReference.cache
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.AssemblyInfoInputs.cache
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.AssemblyInfo.cs
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.csproj.CoreCompileInputs.cache
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.dll
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\refint\SingeltonDesignPatternDemo.dll
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.pdb
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\SingeltonDesignPatternDemo.genruntimeconfig.cache
+D:\SingeltonDesignPatternDemo\SingeltonDesignPatternDemo\obj\Debug\net6.0\ref\SingeltonDesignPatternDemo.dll
